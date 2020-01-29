@@ -7,10 +7,14 @@ For each additional class this code does the following:
 1.Have a constructor that takes a name, which it turn invokes the constructor of its superclass.
 
 2.Implements a setDimensions() method that will take the following parameters:
-1.Square: length and height
-2.Circle: radius
-3.Triangle: 3 sides
-4.EquilateralTriangle: 1 side
+
+a)Square: length and height
+
+b)Circle: radius
+
+c)Triangle: 3 sides
+
+d)EquilateralTriangle: 1 side
 
 3.Overrides the printDimensions() method of the superclass to print the dimensions of the current shape.
 
